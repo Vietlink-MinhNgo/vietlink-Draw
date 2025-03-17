@@ -114,8 +114,8 @@
         <mxCell id="w_IsWLLdEAsDkZ4ZfBK2-4" value="Pull request to merge release branch to main branch" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="353" y="738" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t1xt3MiT-To5GJhzjlpZ-0" value="feature/UpdateGTM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="585" width="184" height="40" as="geometry" />
+        <mxCell id="t1xt3MiT-To5GJhzjlpZ-0" value="feature/UpdateGTM &lt;br&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;(Only when finish STG coding, fixing, deploying)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="585" width="302" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
