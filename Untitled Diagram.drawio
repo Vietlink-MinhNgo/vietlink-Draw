@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1050" dy="522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -90,26 +90,32 @@
         <mxCell id="qA7TBKh8Xf4ynkCTTNnx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qA7TBKh8Xf4ynkCTTNnx-30" target="qA7TBKh8Xf4ynkCTTNnx-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="t1xt3MiT-To5GJhzjlpZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qA7TBKh8Xf4ynkCTTNnx-30" target="t1xt3MiT-To5GJhzjlpZ-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qA7TBKh8Xf4ynkCTTNnx-30" value="release-stg/{release-name}" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="99" y="441" width="184" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qA7TBKh8Xf4ynkCTTNnx-33" value="feature/{feature-name}" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="230" y="525" width="184" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w_IsWLLdEAsDkZ4ZfBK2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w_IsWLLdEAsDkZ4ZfBK2-0" target="w_IsWLLdEAsDkZ4ZfBK2-2">
+        <mxCell id="w_IsWLLdEAsDkZ4ZfBK2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w_IsWLLdEAsDkZ4ZfBK2-0" target="w_IsWLLdEAsDkZ4ZfBK2-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w_IsWLLdEAsDkZ4ZfBK2-0" value="Check out release branch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="15" y="648" width="120" height="60" as="geometry" />
+        <mxCell id="w_IsWLLdEAsDkZ4ZfBK2-0" value="Check out release branch" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="21" y="738" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w_IsWLLdEAsDkZ4ZfBK2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w_IsWLLdEAsDkZ4ZfBK2-2" target="w_IsWLLdEAsDkZ4ZfBK2-4">
+        <mxCell id="w_IsWLLdEAsDkZ4ZfBK2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w_IsWLLdEAsDkZ4ZfBK2-2" target="w_IsWLLdEAsDkZ4ZfBK2-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w_IsWLLdEAsDkZ4ZfBK2-2" value="Commit and Push release branch to origin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="177" y="648" width="120" height="60" as="geometry" />
+        <mxCell id="w_IsWLLdEAsDkZ4ZfBK2-2" value="Commit and Push release branch to origin" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="183" y="738" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w_IsWLLdEAsDkZ4ZfBK2-4" value="Pull request to merge release branch to main branch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="347" y="648" width="120" height="60" as="geometry" />
+        <mxCell id="w_IsWLLdEAsDkZ4ZfBK2-4" value="Pull request to merge release branch to main branch" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="353" y="738" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t1xt3MiT-To5GJhzjlpZ-0" value="feature/UpdateGTM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="585" width="184" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
